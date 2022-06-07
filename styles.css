@@ -35,7 +35,7 @@
     border-radius: 9px;
 }
 
-input {
+input, select {
     padding: 5px;
     font-size: 16px;
 }
